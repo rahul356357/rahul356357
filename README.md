@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React and React Native 
 - 👯 I’m looking to collaborate on any web project  
